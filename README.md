@@ -1,4 +1,27 @@
 # MNXB01-learn
 
 Once upon a time,
-there was a **beautiful** _princess_
+there was a **singing** _parrot_
+
+```
+        .------.
+       /  ~ ~   \,------.      ______
+     ,'  ~ ~ ~  /  (@)   \   ,'      \
+   ,'          /`.    ~ ~ \ /         \
+ ,'           | ,'\  ~ ~ ~ X     \  \  \
+'  ,'          V--<       (       \  \  \
+ ,'               (vv      \/\  \  \  |  |
+'  ,'   /         (vv   ""    \  \  | |  |
+_,'    /   /       vv   """    \ |  / / /
+  \__,'   /  |     vv          / / / / /
+      \__/   / |  | \         / /,',','
+         \__/\_^  |  \       /,'',','\
+                `-^.__>.____/  ' ,'   \
+                        // //---'      |
+      ===============(((((((=================
+      from Lauren Nowlin         | \ \  \
+                                 / |  |  \
+                                / /  / \  \
+                                `.     |   \
+```
+Source: <https://www.asciiart.eu/animals/birds-land>
